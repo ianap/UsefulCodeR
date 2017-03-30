@@ -1,0 +1,2 @@
+This repo contains some R scripts with test dataset. 
+CompBio folder is for scripts related to computational biology task. For instance, get promoters, get differentially expressed genes from CELL files.
